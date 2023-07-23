@@ -7,8 +7,8 @@ Drawing in terminal
 
 2. compiling NPaint
 
-'''gcc npaint.c -o main -lncurses'''
+   '''gcc npaint.c -o main -lncurses'''
 
 3. start npaint
 
-'''./main'''
+   '''./main'''
